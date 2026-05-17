@@ -20,7 +20,7 @@ covering Software Defined Networks (SDN), built as a 3.2HD submission.
 ## Video tutorial
 
 A walk-through of the practical demonstration, recorded for this module:
-**[YouTube link here once uploaded]**
+https://youtu.be/RyoLcsDdtys
 
 The video covers:
 1. An empty OpenFlow switch with no rules and no controller.
